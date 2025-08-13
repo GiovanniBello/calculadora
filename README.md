@@ -6,7 +6,7 @@ Uma calculadora simples que realiza operações de **soma**, **subtração**, **
 
 1. Baixe ou clone este repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/calculadora.git
+git clone https://github.com/GiovanniBello/calculadora.git
 cd calculadora
 
   
